@@ -6,7 +6,8 @@ Im DucK and you can find me at [Instagram](https://Instagram.com/_ming.duck)
 ### Favorite
 
 Music 🎵, computer💻, and many many more
-![duck](https://images.app.goo.gl/AnL8YBeLkWsosAJd7)
+
+![](https://media2.giphy.com/media/xTv6kG7GUXfj2/200.gif)
 
 ```Python
 Print "Hello World"
